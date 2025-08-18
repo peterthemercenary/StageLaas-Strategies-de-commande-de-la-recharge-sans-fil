@@ -13,5 +13,5 @@ Ce projet explore différentes stratégies de commande pour la recharge sans fil
 
 
 ✍️ Auteur :       Pierre Diamane SENGHOR<br> 
-&nbsp;&nbsp;&nbsp;Hassan SARIH <br>
+&nbsp;&nbsp;Hassan SARIH <br>
 📅 Projet réalisé dans le cadre d’un stage au **LAAS-CNRS**
