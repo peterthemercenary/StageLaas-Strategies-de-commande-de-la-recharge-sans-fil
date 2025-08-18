@@ -12,6 +12,6 @@ Ce projet explore différentes stratégies de commande pour la recharge sans fil
   → Fichier : `TestHRTIM1`
 
 
-✍️ Auteur :  Pierre Diamane SENGHOR<br>
-            ␠␠ Hassan SARIH <br>
+✍️ Auteur :  Pierre Diamane SENGHOR<br> ␠␠ 
+Hassan SARIH <br>
 📅 Projet réalisé dans le cadre d’un stage au **LAAS-CNRS**
