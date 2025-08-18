@@ -1,3 +1,3 @@
 # StageLaas-Strategies-de-commande-de-la-recharge-sans-fil
-Décalage de phase effectué avec le STM32L476RG (TIMER normal) : nom du fichier = CommandeDuPontComplet
-Décalage de phase effectué avec le STM32G474RE (High Resolution TIMER)  :  nom du fichier = TestHRTIM1 
+Ligne 1 Décalage de phase effectué avec le STM32L476RG (TIMER normal) : nom du fichier = CommandeDuPontComplet
+Ligne 2 Décalage de phase effectué avec le STM32G474RE (High Resolution TIMER)  :  nom du fichier = TestHRTIM1 
