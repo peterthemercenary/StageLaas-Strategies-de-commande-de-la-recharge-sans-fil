@@ -6,7 +6,7 @@ Ce projet explore différentes stratégies de commande pour la recharge sans fil
 ## Implémentations de la commande 
 
 - **Microcontrôleur STM32L476RG** (TIMER normal)  
-  → Fichier : `CommandeDuPontComplet` pour la commande du pont complet ( un timer de base , un timer en retard par rapport au timer de base et l'autre en avance )
+  → Fichier : `CommandeDuPontComplet` pour la commande du pont complet ( un timer de base , un timer en retard par rapport au timer de base et l'autre en avance )<br>
   → Fichier : `PWMFREQL476RG` pour moduler la fréquence des signaux PWM à déphaser afin de contrôler le courant ( à moitié fonctionnel à cause d'un petit
                problème d'implémentation : le déphasage ne se met pas à jour périodiquement)
 
