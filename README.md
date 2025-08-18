@@ -14,11 +14,11 @@ Ce projet explore différentes stratégies de commande pour la recharge sans fil
   → Fichier : `TestHRTIM1` (avec test du DAC) pour la commande du pont complet avec des HRTIMs ( des PWM déphasés et/ou inversés)
 
 
-✍️ Auteur :       
+## ✍️ Auteur :       
 &nbsp;&nbsp;Pierre Diamane SENGHOR<br> 
 &nbsp;&nbsp;Hassan SARIH <br>
 
-version de logiciels:
+## version de logiciels:
 Matlab R2025a<br>
 Proteus 8.17<br>
 STM32CUBEIDE 1.19.0<br>
