@@ -17,4 +17,10 @@ Ce projet explore différentes stratégies de commande pour la recharge sans fil
 ✍️ Auteur :       
 &nbsp;&nbsp;Pierre Diamane SENGHOR<br> 
 &nbsp;&nbsp;Hassan SARIH <br>
+
+version de logiciels:
+Matlab R2025a<br>
+Proteus 8.17<br>
+STM32CUBEIDE 1.19.0<br>
 📅 Projet réalisé dans le cadre d’un stage au **LAAS-CNRS**
+
