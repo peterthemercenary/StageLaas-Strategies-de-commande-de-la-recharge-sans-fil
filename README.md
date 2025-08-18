@@ -5,13 +5,12 @@ Ce projet explore différentes stratégies de commande pour la recharge sans fil
 
 ## Implémentations
 
-- **STM32L476RG** (TIMER normal)  
+- **Microcontrôleur STM32L476RG** (TIMER normal)  
   → Fichier : `CommandeDuPontComplet`
 
-- **STM32G474RE** (High Resolution TIMER)  
+- **Microcontrôleur STM32G474RE** (High Resolution TIMER)  
   → Fichier : `TestHRTIM1`
 
----
 
 ✍️ Auteur :  Pierre Diamane SENGHOR<br>
              Hassan SARIH <br>
